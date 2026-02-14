@@ -2,7 +2,7 @@
 Insurance Pricing Analytics Platform
 
 Overview:
-This project simulates an insurance pricing data warehouse and analytics platform for life and health products. It evaluates portfolio performance across 5,000 policies and ~145 claims, analyzing loss ratios, claim frequency, severity, cohort deterioration, duration curves, and regional performance.
+This project simulates an insurance pricing data warehouse and analytics platform for life and health products. It evaluates portfolio performance across 5,000 policies and 200 claims, analyzing loss ratios, claim frequency, severity, cohort deterioration, duration curves, and regional performance.
 
 Purpose:
 The platform is designed to support actuarial decision-making, enabling users to identify portfolio trends, assess pricing adequacy, and monitor product and regional risk exposures. It provides actionable insights while highlighting credibility constraints for smaller segments.
